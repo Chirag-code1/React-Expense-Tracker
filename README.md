@@ -1,2 +1,2 @@
-SE LIVE - https://expense-tracker-chirag.web.app/
+SEE LIVE - https://expense-tracker-chirag.web.app/
 # React-Expense-Tracker
